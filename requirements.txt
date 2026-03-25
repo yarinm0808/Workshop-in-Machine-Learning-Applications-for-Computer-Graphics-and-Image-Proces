@@ -1,0 +1,8 @@
+torch>=2.1.0
+torchvision
+diffusers>=0.28.0
+transformers>=4.44.0
+qwen-vl-utils
+Pillow
+accelerate
+safetensors

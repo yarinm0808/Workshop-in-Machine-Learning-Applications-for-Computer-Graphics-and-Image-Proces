@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "theme": "Statue Awakening",
+    "baseline_switch_steps": [8, 12],
+    "prompts": [
+      "A rough block of white marble stone sitting on a museum pedestal",
+      "A classical marble statue of a woman's bust, smooth stone texture, on a museum pedestal",
+      "A living woman posing as a statue, white makeup, realistic skin texture, on a museum pedestal"
+    ]
+  },
+  {
+    "id": 2,
+    "theme": "Corporate Mascot",
+    "baseline_switch_steps": [7, 18],
+    "prompts": [
+      "A professional CEO in a suit sitting at a desk, typing on a laptop, office background",
+      "A person wearing a realistic grizzly bear mascot costume in a suit, sitting at a desk, typing",
+      "A real grizzly bear wearing a suit, sitting at a desk, typing, cinematic wildlife photography"
+    ]
+  },
+  {
+    "id": 3,
+    "theme": "Sci-Fi Horror",
+    "baseline_switch_steps": [4, 15],
+    "prompts": [
+      "A grandmother wearing gray dress knitting a scarf in a rocking chair",
+      "A person in a shark costume knitting a scarf",
+      "A humanoid shark mutant knitting a scarf, scifi horror, scales, fins"
+    ]
+  },
+  {
+    "id": 4,
+    "theme": "Vehicle to Beast",
+    "baseline_switch_steps": [6, 17],
+    "prompts": [
+      "A fast silver sports car speeding down a desert highway",
+      "A silver sports car with organic metallic armor and animal legs speeding down a highway",
+      "A biomechanical metallic rhinoceros sprinting down a desert highway"
+    ]
+  },
+  {
+    "id": 5,
+    "theme": "Architecture to Nature",
+    "baseline_switch_steps": [5, 12],
+    "prompts": [
+      "A quaint suburban house with a slanted roof and square windows",
+      "A house made entirely of living tree bark and woven branches",
+      "A massive ancient banyan tree with glowing hollows resembling windows"
+    ]
+  },
+  {
+    "id": 6,
+    "theme": "Cyberpunk Evolution",
+    "baseline_switch_steps": [7, 16],
+    "prompts": [
+      "A portrait of a police officer directing traffic in a neon city",
+      "A cyberpunk cyborg police officer with a metal robotic arm directing traffic",
+      "A fully mechanical robot droid in a police uniform directing traffic, shiny metal plating"
+    ]
+  },
+  {
+    "id": 7,
+    "theme": "Animal to Food",
+    "baseline_switch_steps": [4, 19],
+    "prompts": [
+      "A fluffy orange cat curled up sleeping on a wooden kitchen table",
+      "A loaf of bread perfectly baked in the shape of a sleeping curled-up cat",
+      "A fresh baked artisan sourdough loaf sitting on a wooden kitchen table"
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "Liquid Dance",
+    "baseline_switch_steps": [8, 10],
+    "prompts": [
+      "A beautiful ballet dancer leaping in the air, wearing a flowing blue dress",
+      "A ballet dancer made entirely of liquid water and glass, leaping in the air",
+      "A crashing ocean wave that perfectly resembles the silhouette of a leaping human"
+    ]
+  },
+  {
+    "id": 9,
+    "theme": "Tech to Fantasy",
+    "baseline_switch_steps": [9, 13],
+    "prompts": [
+      "An open modern silver laptop sitting on a messy wooden desk",
+      "An antique folding device made of carved wood and parchment pages on a desk",
+      "An ancient glowing magical spellbook open on a messy wooden desk"
+    ]
+  },
+  {
+    "id": 10,
+    "theme": "Transport Morph",
+    "baseline_switch_steps": [8, 12],
+    "prompts": [
+      "A man wearing a helmet riding a bicycle down a dirt path",
+      "A man riding a mechanical steampunk horse with wheels down a dirt path",
+      "A man riding a galloping muscular brown horse down a dirt path"
+    ]
+  },
+  {
+    "id": 11,
+    "theme": "Macro Shift",
+    "baseline_switch_steps": [6, 11],
+    "prompts": [
+      "An aerial drone shot of a glowing modern metropolis at night with intersecting roads",
+      "An aerial view of a city made of neon computer parts and glowing data streams",
+      "A macro close-up shot of a glowing green computer motherboard circuit board"
+    ]
+  },
+  {
+    "id": 12,
+    "theme": "Cosmic Scale",
+    "baseline_switch_steps": [8, 15],
+    "prompts": [
+      "A perfectly round red apple sitting on a black velvet cloth",
+      "A round red apple covered in swirling clouds and a glowing atmosphere",
+      "A massive red alien planet floating in the dark void of outer space"
+    ]
+  },
+  {
+    "id": 13,
+    "theme": "Everyday Danger",
+    "baseline_switch_steps": [5, 14],
+    "prompts": [
+      "A ceramic mug of hot coffee steaming on a saucer",
+      "A mug made of dark volcanic rock filled with glowing orange lava",
+      "A miniature active volcano erupting lava onto a ceramic saucer"
+    ]
+  },
+  {
+    "id": 14,
+    "theme": "Dune Inspired",
+    "baseline_switch_steps": [8, 17],
+    "prompts": [
+      "A sleek modern bullet train speeding across the desert",
+      "A bullet train covered in segmented organic brown armor plates",
+      "A giant terrifying sandworm speeding across the desert sand"
+    ]
+  },
+  {
+    "id": 15,
+    "theme": "Alice in Wonderland",
+    "baseline_switch_steps": [9, 13],
+    "prompts": [
+      "A person holding a large black umbrella standing in the rain",
+      "A person holding a giant dark mushroom cap like an umbrella in the rain",
+      "A person sheltering under a massive magical glowing mushroom in a dark forest"
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "Weapon of the Gods",
+    "baseline_switch_steps": [7, 13],
+    "prompts": [
+      "A medieval knight holding a shiny steel broadsword raised to the sky",
+      "A medieval knight holding a sword made of crackling blue energy",
+      "A medieval knight holding a jagged bolt of raw blue lightning"
+    ]
+  },
+  {
+    "id": 17,
+    "theme": "Surreal Furniture",
+    "baseline_switch_steps": [6, 15],
+    "prompts": [
+      "A comfortable wooden armchair with a high back sitting in a living room",
+      "An armchair carved perfectly into the shape of a giant human hand",
+      "A giant realistic flesh-and-blood human hand reaching up from the living room floor"
+    ]
+  },
+  {
+    "id": 18,
+    "theme": "The Watcher",
+    "baseline_switch_steps": [6, 12],
+    "prompts": [
+      "A round white wall clock with black hands ticking",
+      "A round wall clock with a blue iris and pupil painted in the center",
+      "A giant hyper-realistic human eye staring out from the white wall"
+    ]
+  },
+  {
+    "id": 19,
+    "theme": "Instrument to Reptile",
+    "baseline_switch_steps": [8, 14],
+    "prompts": [
+      "A rockstar wearing a leather jacket holding an acoustic guitar",
+      "A rockstar holding a guitar completely covered in green snake skin and scales",
+      "A rockstar wearing a leather jacket holding a giant coiled green python"
+    ]
+  },
+  {
+    "id": 20,
+    "theme": "Winter Magic",
+    "baseline_switch_steps": [7, 10],
+    "prompts": [
+      "A cute emperor penguin standing upright in a snowy field",
+      "A penguin made entirely of packed snow with twig arms standing in a field",
+      "A classic snowman with a carrot nose and twig arms standing in a snowy field"
+    ]
+  }
+]
