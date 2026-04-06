@@ -2,7 +2,7 @@
 
 **Workshop in ML Applications for Computer Graphics and Image Processing - Tel Aviv University** 
 
-**Authors:** Yarin Meirovich, Tore Barach Kamar, Shahar Ghivoly
+**Authors:** Yarin Isaac Meirovich, Tore Barach Kamar, Shahar Ghivoly
 
 ## 📖 Overview
 Diffusion models have become the de-facto standard for high-fidelity image generation, yet they consistently struggle to generate semantically accurate results when prompts feature "contextual contradictions" (concepts rarely seen together in the model's training distribution). 
@@ -41,7 +41,7 @@ This repository contains two primary generation scripts, tailored for different 
 ## ⚙️ Technical Architecture
 Our implementation utilizes a concurrent, dual-GPU pipeline to mitigate the computational bottleneck of running large models simultaneously.
 * **GPU 0 (SDXL - Diffusion Generation):** Handles the standard UNet diffusion process and maintains the Text Encoder. The inference operator code is retrofitted with "breakpoints" to enable prompt injection and inspection of predicted futures. At predefined intervals, noisy latents are extracted and passed through a lightweight Decoder to create a preview image.
-* **GPU 1 (Qwen2-VL - Agentic Decision):** Hosts the VLM responsible for evaluating the visual state of the generation. It receives the preview image and a targeted question. [cite_start]If it outputs a "YES" decision, a trigger is sent back to GPU 0 to execute the prompt switch[cite: 121].
+* **GPU 1 (Qwen2-VL - Agentic Decision):** Hosts the VLM responsible for evaluating the visual state of the generation. It receives the preview image and a targeted question. If it outputs a "YES" decision, a trigger is sent back to GPU 0 to execute the prompt switch.
 
 ## 💻 Installation & Usage
 
